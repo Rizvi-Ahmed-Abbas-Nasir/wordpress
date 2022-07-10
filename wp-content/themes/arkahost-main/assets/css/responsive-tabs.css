@@ -1,0 +1,421 @@
+/*	Responsive Tabs v1.0, Copyright 2014, Joe Mottershaw, https://github.com/joemottershaw/
+//	======================================================================================= */
+
+/*	Table of Contents
+//	==================================================
+//		#Reset
+//		#Themes
+
+
+/*	#Reset
+//	================================================== */
+
+.tabs {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+.tabs li {
+	margin: 0px 0px 25px 0px;
+	text-align: center;
+}
+.tabs li i {
+	font-size: 30px;
+	margin-bottom: 8px;
+	text-align: center;
+	display: block;
+}
+
+.tabs li a:after {
+	right: 100%;
+	top: 50%;
+	border: solid transparent; content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+	border-color: rgba(238, 238, 238, 0);
+	border-right-color: #eee;
+	border-width: 10px;
+	margin-top: -10px;
+}
+.tabs li.active a {
+	color: #fff;
+	background-color: #999;
+}
+.tabs li.active a:after {
+	border-color: rgba(19, 175, 235, 0);
+	border-right-color: #999;
+}
+
+
+.king-tabs-panes {
+	float: left;
+	width: 100%;
+	padding: 0;
+	text-align: left;
+}
+
+.king-tabs-panes img.img_left2 {
+	width: auto;
+}
+.king-tabs-panes .tabs-panel {
+	padding: 20px;
+}
+.king-tabs-panes .tabs-panel .tab-title {
+	display: none;
+}
+
+.king-tabs-panes .king-tabs-pane.bgimg1 {
+	background: url(../images/site-img172.jpg) no-repeat right 10px;
+	height: 340px;
+}
+.king-tabs-panes .king-tabs-pane.bgimg2 {
+	background: url(../images/site-img173.jpg) no-repeat right 10px;
+	height: 340px;
+}
+.king-tabs-panes .king-tabs-pane.bgimg3 {
+	background: url(../images/site-img174.jpg) no-repeat right 10px;
+	height: 340px;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 999px){
+
+	.tabs li i {
+		font-size: 20px;
+	}
+	
+	.king-tabs.detached ul.king-tabs-nav a {
+		font-size: 14px;
+	    padding: 0px 20px;
+	    line-height: 45px;
+	}
+
+}
+
+
+@media only screen and (min-width: 480px) and (max-width: 767px){
+	ul.tabs {
+		width: 25%;
+		margin-right: 3%;
+	}
+	.king-tabs-panes {
+		width: 100%;
+	}
+
+	.king-tabs-panes .tabs-panel.bgimg1,
+	.king-tabs-panes .tabs-panel.bgimg2,
+	.king-tabs-panes .tabs-panel.bgimg3 {
+		background: none;
+	}
+	
+	
+	/*------------------- TAB --------------------*/
+	.king-tabs.detached ul.king-tabs-nav{width: 100%;}
+	.king-tabs.detached ul.king-tabs-nav li{ padding-bottom: 15px; width:24%; margin-right: 1%; }
+	.king-tabs.detached ul.king-tabs-nav li.ui-tabs-active{ background: none; }
+	.king-tabs.detached ul.king-tabs-nav a{ 
+		font-size: 12px;
+		padding: 10px 10px;
+		line-height: 18px;
+		white-space: normal;
+		width: 100%;
+		margin: 0;
+		display: inline-block;
+	}	
+	.king-tabs-panes { width: 100%; }
+	.king-tabs.detached .king-tabs-pane{ padding: 20px; width:100%; }
+}
+
+
+@media only screen and (max-width: 479px){
+	ul.tabs {
+		width: 30%;
+		margin-right: 1%;
+	}
+	.king-tabs-panes {
+		width: 69%;
+	}
+
+	.featured_section9 .king-tabs-panes {
+		width: 100%;
+	}
+	
+	.king-tabs-panes .tabs-panel.bgimg1,
+	.king-tabs-panes .tabs-panel.bgimg2,
+	.king-tabs-panes .tabs-panel.bgimg3 {
+		background: none;
+	}	
+	
+	/*------------------- TAB --------------------*/
+	.king-tabs.detached ul.king-tabs-nav{width: 100%;}
+	.king-tabs.detached ul.king-tabs-nav li{ padding-bottom: 15px; width:24%; margin-right: 1%; }
+	.king-tabs.detached ul.king-tabs-nav li.ui-tabs-active{ background: none; }
+	.king-tabs.detached ul.king-tabs-nav a{ 
+		font-size: 12px;
+		padding: 10px 10px;
+		line-height: 18px;
+		white-space: normal;
+		width: 100%;
+		margin: 0;
+		display: inline-block;
+	}	
+	.king-tabs-panes { width: 100%; }
+	.king-tabs.detached .king-tabs-pane{ padding: 20px; width:100%; }
+}
+
+/***** TAB2 ********/
+
+.tabs2 , .king-tabs.tabs2{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	background: none;
+	border:0;
+}
+.tabs2 .king-tabs-panes{
+	border: 1px solid #e3e3e3;
+	float: left;
+	width: 100%;
+	padding: 3% 3% 4% 3%;
+	text-align: left;
+	margin-bottom: 0px;
+}
+.tabs2 .king-tabs-panes .king-tabs-pane{
+	padding: 0;
+}
+.tabs2 .king-tabs-panes img{
+	width: auto;
+}
+.tabs2 .king-tabs-nav{
+	height: 40px;
+}
+.tabs2 li {
+	margin: 0;
+	text-align: left;
+}
+.tabs2 li a {
+	float: left;
+	color: #454545;
+	height: 40px;
+	padding: 0px 30px;
+	text-decoration: none;
+	line-height: 40px;
+	font-size: 14px;
+	background-color: #e3e3e3;
+	border-right: 1px solid #fff;
+	min-height: 0;
+}
+.tabs2  li.active a{
+	color: #fff;
+	background-color: #999;
+}
+.tabs-content2 {
+	float: left;
+	width: 89%;
+	padding: 5% 5% 6% 5%;
+	text-align: left;
+	margin-bottom: 40px;
+	border: 1px solid #e3e3e3;
+}
+.tabs-content2 img.img_left2 {
+	width: auto;
+	margin-right: 25px;
+}
+.tabs-content2 .tabs-panel {
+	padding: 20px;
+}
+.tabs-content2 .tabs-panel2 .tab-title2 {
+	display: none;
+}
+
+.tabs-content2 .tabs-panel2.two{
+	padding: 20px 20px 14px 20px;
+}
+
+.tabs-content2.fullw {
+	float: left;
+	width: 100%;
+	padding: 3% 3% 4% 3%;
+	text-align: left;
+	margin-bottom: 0px;
+	border: 1px solid #e3e3e3;
+}
+
+/*	#Themes
+//	================================================== */
+
+#example-2 .tabs2 li {
+	width: 100px;
+	border: 1px solid #DDD;
+	border-right: 0;
+	background: #EEE;
+	cursor: pointer;
+	position: relative;
+	z-index: 999;
+}
+#example-2 .tabs2 li:last-child {
+	border-right: 1px solid #DDD;
+}
+#example-2 .tabs2 li.active {
+	border-bottom: 1px solid #FFF;
+	background: #FFF;
+}
+#example-2 .tabs-content2 {
+	border: 1px solid #DDD;
+	background: #FFF;
+	position: relative;
+	top: -1px;
+	z-index: 99;
+}
+#example-2 .tabs-content2 .tab-title {
+	color: #0b8593;
+}
+
+
+@media only screen and (min-width: 1000px) and (max-width: 1169px){
+
+	.tabs2 li a {
+		padding: 0px 20px;
+	}
+	.king-tabs.detached ul.king-tabs-nav a{
+		padding: 0px 35px;
+	}
+	.king-tabs.detached .king-tabs-pane .vc_col-sm-4{
+		padding-right: 20px;
+	}
+	
+}
+
+@media only screen and (min-width: 768px) and (max-width: 999px){
+
+	.tabs2 li a {
+		padding: 0px 9px;
+	}
+
+	
+	.king-tabs-vertical .king-tabs-nav{
+		width: 20%;
+	}	
+	.king-tabs-vertical .king-tabs-panes{
+		width: 80%;
+		padding: 0;
+	}	
+	.king-tabs-vertical .king-tabs-pane{
+		padding-top: 0!important;
+	}
+	.king-tabs-vertical .king-tabs-nav a{
+		font-size: 14px;
+	}
+}
+
+
+@media only screen and (min-width: 480px) and (max-width: 767px){
+	.tabs2 li a {
+		padding: 0px 18px;
+	}
+
+	.tabs-content2.fullw {
+		padding: 5% 5% 6% 5%;
+	}
+	
+	ul.tabs{
+		width: 100%;
+	}
+	
+	.king-tabs-nav a{
+		line-height: 40px;
+		min-height: 40px;
+		padding: 0 10px;
+	}
+	.king-tabs-panes img{
+		max-width: 260px;		
+	}
+	body  #content .king-tabs-pane .wpb_text_column *:last-child{
+		margin-bottom: 20px;
+	}
+	
+	.king-spoiler-style3 .king-spoiler-content .content{
+		padding-left:20px;
+		padding-right:20px;
+	}
+	
+	.king-tabs-vertical .king-tabs-nav{
+		width: 25%;
+	}	
+	.king-tabs-vertical .king-tabs-panes{
+		width: 75%;
+		padding: 0;
+	}	
+	.king-tabs-vertical .king-tabs-pane{
+		padding-top: 0!important;
+	}
+	.king-tabs-vertical .king-tabs-nav a{
+		font-size: 12px;
+	}
+	
+	.king-tabs.detached ul.king-tabs-nav li{
+		width: 19%;
+	}
+	.king-tabs.detached ul.king-tabs-nav a{
+		font-size: 10px;
+	}
+
+}
+
+
+@media only screen and (max-width: 479px){
+	.tabs2 li a {
+		padding: 0px 10px;
+	}
+
+	.tabs-content2.fullw {
+		padding: 7% 7% 8% 7%;
+	}
+
+	ul.tabs{
+		width: 100%;
+	}
+	
+	.king-tabs-nav a{
+		line-height: 40px;
+		min-height: 40px;
+		padding: 0 10px;
+	}
+	.king-tabs-panes img{
+		max-width: 260px;
+	}
+	
+	.king-spoiler-style3 .king-spoiler-content .content{
+		padding-left:20px;
+		padding-right:20px;
+	}
+	
+	.king-tabs-vertical .king-tabs-nav{
+		width: 25%;
+	}	
+	.king-tabs-vertical .king-tabs-panes{
+		width: 75%;
+		padding: 0;
+	}	
+	.king-tabs-vertical .king-tabs-pane{
+		padding-top: 0!important;
+	}
+	.king-tabs-vertical .king-tabs-nav a{
+		font-size: 10px;
+	}
+	
+	.king-tabs.detached ul.king-tabs-nav li {
+		width: 19%;
+	}
+	.king-tabs.detached ul.king-tabs-nav a{
+		font-size: 10px;
+		padding: 10px 5px;
+	}
+	
+	body .king-tabs.detached .king-tabs-pane{
+		padding-bottom: 40px;
+	}
+}
+

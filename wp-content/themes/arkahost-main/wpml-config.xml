@@ -1,0 +1,205 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="ignore">arkahost_template</custom-field>
+        <custom-field action="ignore">arkahost_image_gallery</custom-field>
+        <custom-field action="ignore">arkahost_member_position</custom-field>
+        <custom-field action="ignore">arkahost_page_banner</custom-field>
+        <custom-field action="ignore">arkahost_page_banner_desc</custom-field>
+        <custom-field action="ignore">arkahost_page_banner_img</custom-field>
+        <custom-field action="ignore">arkahost_page_banner_img_id</custom-field>
+        <custom-field action="ignore">arkahost_page_banner_parallax</custom-field>
+        <custom-field action="ignore">arkahost_page_banner_title</custom-field>
+        <custom-field action="ignore">arkahost_page_breadcrumb</custom-field>
+        <custom-field action="ignore">arkahost_page_footer</custom-field>
+        <custom-field action="ignore">arkahost_page_header</custom-field>
+        <custom-field action="ignore">arkahost_portfolio_audio</custom-field>
+        <custom-field action="ignore">arkahost_portfolio_date</custom-field>
+        <custom-field action="ignore">arkahost_portfolio_gallery</custom-field>
+        <custom-field action="ignore">arkahost_portfolio_image</custom-field>
+        <custom-field action="ignore">arkahost_portfolio_image_id</custom-field>
+        <custom-field action="ignore">arkahost_portfolio_type</custom-field>
+        <custom-field action="ignore">arkahost_portfolio_url</custom-field>
+        <custom-field action="ignore">arkahost_portfolio_video</custom-field>
+        <custom-field action="ignore">arkahost_post_audio_embed</custom-field>
+        <custom-field action="ignore">arkahost_post_image</custom-field>
+        <custom-field action="ignore">arkahost_post_image_id</custom-field>
+        <custom-field action="ignore">arkahost_post_video_embed</custom-field>
+        <custom-field action="ignore">arkahost_product_date_end</custom-field>
+        <custom-field action="ignore">arkahost_product_date_start</custom-field>
+        <custom-field action="ignore">arkahost_product_map</custom-field>
+        <custom-field action="ignore">arkahost_product_time_end</custom-field>
+        <custom-field action="ignore">arkahost_product_time_start</custom-field>
+        <custom-field action="ignore">arkahost_service_class</custom-field>
+        <custom-field action="ignore">arkahost_testimonials_position</custom-field>
+        <custom-field action="ignore">total_sales</custom-field>
+        <custom-field action="ignore">vc_teaser</custom-field>
+        <custom-field action="ignore">_additional_settings</custom-field>
+        <custom-field action="ignore">_backorders</custom-field>
+        <custom-field action="ignore">_billing_address_1</custom-field>
+        <custom-field action="ignore">_billing_address_2</custom-field>
+        <custom-field action="ignore">_billing_city</custom-field>
+        <custom-field action="ignore">_billing_company</custom-field>
+        <custom-field action="ignore">_billing_country</custom-field>
+        <custom-field action="ignore">_billing_email</custom-field>
+        <custom-field action="ignore">_billing_first_name</custom-field>
+        <custom-field action="ignore">_billing_last_name</custom-field>
+        <custom-field action="ignore">_billing_phone</custom-field>
+        <custom-field action="ignore">_billing_postcode</custom-field>
+        <custom-field action="ignore">_billing_state</custom-field>
+        <custom-field action="ignore">_cart_discount</custom-field>
+        <custom-field action="ignore">_cart_discount_tax</custom-field>
+        <custom-field action="ignore">_crosssell_ids</custom-field>
+        <custom-field action="ignore">_customer_ip_address</custom-field>
+        <custom-field action="ignore">_customer_user</custom-field>
+        <custom-field action="ignore">_customer_user_agent</custom-field>
+        <custom-field action="ignore">_downloadable</custom-field>
+        <custom-field action="ignore">_featured</custom-field>
+        <custom-field action="ignore">_form</custom-field>
+        <custom-field action="ignore">_height</custom-field>
+        <custom-field action="ignore">_length</custom-field>
+        <custom-field action="ignore">_locale</custom-field>
+        <custom-field action="ignore">_mail</custom-field>
+        <custom-field action="ignore">_mail_2</custom-field>
+        <custom-field action="ignore">_manage_stock</custom-field>
+        <custom-field action="ignore">_menu_item_classes</custom-field>
+        <custom-field action="ignore">_menu_item_menu_item_parent</custom-field>
+        <custom-field action="ignore">_menu_item_object</custom-field>
+        <custom-field action="ignore">_menu_item_object_id</custom-field>
+        <custom-field action="ignore">_menu_item_orphaned</custom-field>
+        <custom-field action="ignore">_menu_item_target</custom-field>
+        <custom-field action="ignore">_menu_item_type</custom-field>
+        <custom-field action="ignore">_menu_item_url</custom-field>
+        <custom-field action="ignore">_menu_item_xfn</custom-field>
+        <custom-field action="ignore">_messages</custom-field>
+        <custom-field action="ignore">_order_currency</custom-field>
+        <custom-field action="ignore">_order_key</custom-field>
+        <custom-field action="ignore">_order_shipping</custom-field>
+        <custom-field action="ignore">_order_shipping_tax</custom-field>
+        <custom-field action="ignore">_order_tax</custom-field>
+        <custom-field action="ignore">_order_total</custom-field>
+        <custom-field action="ignore">_order_version</custom-field>
+        <custom-field action="ignore">_payment_method</custom-field>
+        <custom-field action="ignore">_payment_method_title</custom-field>
+        <custom-field action="ignore">_price</custom-field>
+        <custom-field action="ignore">_prices_include_tax</custom-field>
+        <custom-field action="ignore">_product_attributes</custom-field>
+        <custom-field action="ignore">_product_image_gallery</custom-field>
+        <custom-field action="ignore">_purchase_note</custom-field>
+        <custom-field action="ignore">_recorded_sales</custom-field>
+        <custom-field action="ignore">_regular_price</custom-field>
+        <custom-field action="ignore">_sale_price</custom-field>
+        <custom-field action="ignore">_sale_price_dates_from</custom-field>
+        <custom-field action="ignore">_sale_price_dates_to</custom-field>
+        <custom-field action="ignore">_shipping_address_1</custom-field>
+        <custom-field action="ignore">_shipping_address_2</custom-field>
+        <custom-field action="ignore">_shipping_city</custom-field>
+        <custom-field action="ignore">_shipping_company</custom-field>
+        <custom-field action="ignore">_shipping_country</custom-field>
+        <custom-field action="ignore">_shipping_first_name</custom-field>
+        <custom-field action="ignore">_shipping_last_name</custom-field>
+        <custom-field action="ignore">_shipping_postcode</custom-field>
+        <custom-field action="ignore">_shipping_state</custom-field>
+        <custom-field action="ignore">_sku</custom-field>
+        <custom-field action="ignore">_sold_individually</custom-field>
+        <custom-field action="ignore">_stock</custom-field>
+        <custom-field action="ignore">_stock_status</custom-field>
+        <custom-field action="ignore">_upsell_ids</custom-field>
+        <custom-field action="ignore">_vc_post_settings</custom-field>
+        <custom-field action="ignore">_virtual</custom-field>
+        <custom-field action="ignore">_visibility</custom-field>
+        <custom-field action="ignore">_weight</custom-field>
+        <custom-field action="ignore">_width</custom-field>
+        <custom-field action="ignore">_wpb_shortcodes_custom_css</custom-field>
+        <custom-field action="ignore">_wpb_vc_js_status</custom-field>
+        <custom-field action="ignore">_wp_attachment_context</custom-field>
+    </custom-fields>
+
+    <custom-types>
+        <custom-type translate="0">Products</custom-type>
+        <custom-type translate="0">Variations</custom-type>
+        <custom-type translate="0">Orders</custom-type>
+        <custom-type translate="0">Refunds</custom-type>
+        <custom-type translate="0">Coupons</custom-type>
+        <custom-type translate="0">Webhooks</custom-type>
+        <custom-type translate="0">Contact Forms</custom-type>
+        <custom-type translate="0">Mega Menu</custom-type>
+        <custom-type translate="0">Member</custom-type>
+        <custom-type translate="0">Portfolio</custom-type>
+        <custom-type translate="0">Service</custom-type>
+        <custom-type translate="0">Testimonials</custom-type>
+        <custom-type translate="0">Grid Elements</custom-type>
+    </custom-types>
+
+    <taxonomies>
+        <taxonomy translate="0">product_type</taxonomy>
+        <taxonomy translate="0">product_cat</taxonomy>
+        <taxonomy translate="0">product_tag</taxonomy>
+        <taxonomy translate="0">product_shipping_class</taxonomy>
+        <taxonomy translate="0">member_cats</taxonomy>
+        <taxonomy translate="0">portfolio_cats</taxonomy>
+        <taxonomy translate="0">service_cats</taxonomy>
+    </taxonomies>
+    <admin-texts>
+        <key name="my_plugins_options">
+            <key name="option_name_1" />
+            <key name="option_name_2" />
+            <key name="options_group_1">
+                <key name="sub_option_name_11" />
+                <key name="sub_option_name_12" />
+            </key>
+            <key name="options_group_2">
+                <key name="sub_option_name_21" />
+                <key name="sub_option_name_22" />
+            </key>
+        </key>
+        <key name="simple_string_option" />
+        <key name="mc4wp_lite_checkbox">
+            <key name="label" />
+        </key>
+        <key name="mc4wp_lite_form">
+            <key name="text_subscribed" />
+            <key name="text_error" />
+            <key name="text_invalid_email" />
+            <key name="text_already_subscribed" />
+            <key name="text_invalid_captcha" />
+            <key name="text_required_field_missing" />
+            <key name="text_unsubscribed" />
+            <key name="text_not_subscribed" />
+        </key>
+    </admin-texts>
+    <language-switcher-settings>
+        <key name="icl_lang_sel_config">
+            <key name="font-current-normal">#444444</key>
+            <key name="font-current-hover">#000000</key>
+            <key name="background-current-normal">#ffffff</key>
+            <key name="background-current-hover">#eeeeee</key>
+            <key name="font-other-normal">#444444</key>
+            <key name="font-other-hover">#000000</key>
+            <key name="background-other-normal">#ffffff</key>
+            <key name="background-other-hover">#eeeeee</key>
+            <key name="border">#cdcdcd</key>
+        </key>
+        <key name="icl_lang_sel_footer_config">
+            <key name="font-current-normal">#444444</key>
+            <key name="font-current-hover">#000000</key>
+            <key name="background-current-normal">#ffffff</key>
+            <key name="background-current-hover">#eeeeee</key>
+            <key name="font-other-normal">#444444</key>
+            <key name="font-other-hover">#000000</key>
+            <key name="background-other-normal">#ffffff</key>
+            <key name="background-other-hover">#eeeeee</key>
+            <key name="border">#cdcdcd</key>
+        </key>
+        <key name="icl_language_switcher_sidebar">0</key>
+        <key name="icl_widget_title_show">0</key>
+        <key name="icl_lang_sel_type">dropdown</key>
+        <key name="icl_lso_link_empty">0</key>
+        <key name="icl_lso_flags">0</key>
+        <key name="icl_lso_native_lang">1</key>
+        <key name="icl_lso_display_lang">1</key>
+        <key name="icl_lang_sel_footer">0</key>
+        <key name="icl_post_availability">0</key>
+        <key name="icl_post_availability_position">below</key>
+        <key name="icl_post_availability_text">This post is also available in: %s</key>
+    </language-switcher-settings>
+</wpml-config>

@@ -1,0 +1,116 @@
+/****/
+
+#king_cart{
+	 background-color: #fafafa;
+}
+.king_res_cart i{
+	font-weight: bold;
+}
+#king_cart .cart_list.product_list_widget{
+	max-height: 360px;
+    overflow-y: scroll;
+    background: #fff;
+    border-bottom: 1px solid #eee;
+}
+
+#king_cart ul li{
+	min-width: 300px;
+	padding: 10px 15px!important;
+	clear: both;
+	overflow: hidden;
+	border-bottom: 1px solid #E5E5E5;
+	position: relative;
+}
+
+#king_cart ul li img{
+	max-height: 40px;
+	width: auto;
+	float: left;
+	margin-right: 15px;
+}
+
+#king_cart  .widget-post-text{
+	float: left;
+	width: 40%;
+}
+#king_cart ul > li > a{
+	display: block-inline;
+	width: 60%;
+	float: left;
+}
+
+#king_cart > p.total, #king_cart > p.buttons{
+	display: block;
+	width: 100%;
+	padding: 0 15px !important;
+	margin-bottom: 7px;
+}
+#king_cart > p.total{
+	padding-top: 10px !important;
+}
+#king_cart > p.total strong{
+  font-weight: 500;
+  font-size: 14px;
+}  
+#king_cart > p.total .amount{
+	color: #f62459;
+	font-weight: 500;
+}	
+#king_cart > p.buttons{
+	padding-bottom: 15px !important;
+}
+
+#king_cart .cart_list.product_list_widget div {
+    float: right;
+	width: 35%;
+}
+
+#king_cart .cart_list.product_list_widget .quantity {
+   display: inline-block !important;
+	float: left;
+	width: auto !important;
+}
+
+#king_cart .cart_list .remove {
+	border-radius: 50%;
+	display: inline-block;
+	float: right;
+	font-size: 14px;
+	height: 20px;
+	text-align: center;
+	text-indent: 2px;
+	width: 20px;
+	line-height: 20px;
+}
+
+#king_cart .cart_list .remove:hover{
+	color: #FFFFFF;
+}
+
+#king_cart .button {
+	-moz-user-select: none;
+	background-color: #fff !important;
+	background-image: none;
+	border: 1px solid #ddd !important;
+	border-radius: 0 !important;
+	color: #282828 !important;
+	cursor: pointer !important;
+	display: inline-block;
+	font-size: 11px !important;
+	font-weight: 700 !important;
+	letter-spacing: 1.2px;
+	line-height: 1.42857 !important;
+	margin-bottom: 0;
+	padding: 10px 20px !important;
+	text-align: center;
+	text-transform: uppercase;
+	transition: all 0.3s ease 0s;
+	vertical-align: middle;
+	white-space: nowrap !important;
+	margin-right: 5px;
+}
+#king_cart .button:hover {
+	background: #555 !important;
+	color: #fff !important;
+	border: 1px solid #555 !important;
+}

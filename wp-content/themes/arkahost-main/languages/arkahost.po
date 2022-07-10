@@ -1,0 +1,2192 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: arkahost/options/options.php:1
+msgid ""
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.class.php:659
+msgid " &lt; Previous "
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.class.php:659
+msgid " Next &gt; "
+msgstr ""
+
+#. Text in function
+#: arkahost/core/woocommerce/woo-functions.php:434
+msgid " Products"
+msgstr ""
+
+#. Text in function
+#: arkahost/options/fields/color_gradient/field_color_gradient.php:1
+msgid " To:"
+msgstr ""
+
+#. Text in function
+#: arkahost/options/fields/google_webfonts/field_google_webfonts.php:1
+msgid " to preview a font, then select your choice below."
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.class.php:782
+msgid "% comments"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.functions.php:126
+msgid "%1$s - %2$s "
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.functions.php:126
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: arkahost/comments.php:55
+msgid "&larr; Older Comments"
+msgstr ""
+
+#. Text in function
+#: arkahost/image.php:19
+msgid "&larr; Previous"
+msgstr ""
+
+#. Text in function
+#: arkahost/options/fields/blog/field_blog.php:78
+#: arkahost/options/fields/blog/field_blog.php:79
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.class.php:1304
+msgid ","
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.class.php:1304
+#: arkahost/core/shortcodes/register.php:1
+msgid ", "
+msgstr ""
+
+#. Text in echo
+#: arkahost/404.php:16
+msgid "404"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.class.php:1304
+msgid "<i>in: </i>"
+msgstr ""
+
+#. Text in function
+#: arkahost/options.php:1
+msgid "<p class=\"description\">This is a section created by adding a filter to the sections array, great to allow child themes, to add/remove sections from the options.</p>"
+msgstr ""
+
+#. Text in function
+#: arkahost/options.php:1
+msgid "<p class=\"description\">general configuration options for theme</p>"
+msgstr ""
+
+#. Text in function
+#: arkahost/options.php:1
+msgid "<p>This is the HTML which can be displayed before the form, it isnt required, but more info is always better. Anything goes in terms of markup here, any HTML.</p>"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.class.php:1304
+msgid "<span class=\"%1$s labl\">Tags: </span> %2$s"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.class.php:653
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#. Text in function
+#: arkahost/single.php:89
+msgid "<span class=\"meta-nav\">&larr;</span> Previous Article"
+msgstr ""
+
+#. Text in function
+#: arkahost/image.php:28
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+#. Text in function
+#: arkahost/options/options.php:1
+msgid "<strong><span></span> error(s) were found!</strong>"
+msgstr ""
+
+#. Text in function
+#: arkahost/options/options.php:1
+msgid "<strong><span></span> warning(s) were found!</strong>"
+msgstr ""
+
+#. Text in function
+#: arkahost/options/options.php:1
+msgid "<strong>Settings Imported Successfuly!</strong>"
+msgstr ""
+
+#. Text in function
+#: arkahost/options/options.php:1
+msgid "<strong>Settings Saved! Any changes related to slug, please go to %s and save for resetting.</strong>"
+msgstr ""
+
+#. Text in function
+#: arkahost/options/options.php:1
+msgid "<strong>Settings have changed!, you should save them!</strong>"
+msgstr ""
+
+#. Text in echo
+#: arkahost/options/fields/blog/field_blog.php:82
+msgid "<strong>Warning:</strong> these pages should not be the same!"
+msgstr ""
+
+#. Text in function
+#: arkahost/options/fields/blog/field_blog.php:74
+msgid "A <a href=\"%s\">static page</a> (select below)"
+msgstr ""
+
+#. Text in function
+#: arkahost/options.php:1
+msgid "A Section added by hook"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/woocommerce/filter-product/widgets/king-filter-widget.php:769
+msgid "AND"
+msgstr ""
+
+#. Text in function
+#: arkahost/author.php:44
+msgid "About %s"
+msgstr ""
+
+#. Text in echo
+#: arkahost/single.php:102
+msgid "About the Author"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/login.php:19
+msgid "Account Login"
+msgstr ""
+
+#. Text in function
+#: arkahost/options/fields/multi_text/field_multi_text.php:1
+msgid "Add More"
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/woocommerce/single-product-reviews.php:56
+msgid "Add a review"
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/shortcode/adv_domain_checker/result.php:13
+msgid "Add to cart"
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/woocommerce/single-product/tabs/additional-information.php:1
+msgid "Additional Information"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/register.php:118
+msgid "Address"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/sample.php:123
+msgid "After install plugin"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/woocommerce/filter-product/widgets/king-filter-widget.php:785
+msgid "All (no hierarchical)"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/woocommerce/filter-product/widgets/king-filter-widget.php:786
+msgid "All Hierarchical"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/sample.php:96
+msgid "All done. Have fun!"
+msgstr ""
+
+#. Text in echo
+#: arkahost/options/fields/import_data/field_import_data.php:39
+msgid "All theme options + widgets"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/register.php:23
+msgid "Already Registered?"
+msgstr ""
+
+#. Text in echo
+#: arkahost/archive.php:40
+#: arkahost/author.php:72
+#: arkahost/category.php:54
+#: arkahost/tag.php:45
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr ""
+
+#. Text in echo
+#: arkahost/index.php:50
+#: arkahost/templates/page-left.php:67
+#: arkahost/templates/page-right.php:61
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:700
+msgid "Appears on Archive Products."
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:700
+msgid "Appears on Single Product detail page"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:700
+msgid "Appears on column 1 at Footer"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:700
+msgid "Appears on column 2 at Footer"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:700
+msgid "Appears on column 3 at Footer"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:700
+msgid "Appears on column 4 at Footer"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:700
+msgid "Appears on posts and pages at left-side or right-side except the optional Front Page template."
+msgstr ""
+
+#. Text in function
+#: arkahost/core/widgets/xcode.php:131
+msgid "Arbitrary text, HTML, Javascript, CSS and PHP Code"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:700
+msgid "Archive Products Sidebar"
+msgstr ""
+
+#. Text in function
+#: arkahost/options/options.php:1
+msgid "Are you sure? Resetting will loose all custom values."
+msgstr ""
+
+#. Text in function
+#: arkahost/core/shortcodes/register.php:1
+msgid "Article not found"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/woocommerce/filter-product/widgets/king-filter-widget.php:762
+msgid "Attribute:"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/king.actions.php:672
+msgid "Attributes"
+msgstr ""
+
+#. Text in echo
+#: arkahost/single-our-works.php:138
+msgid "Author"
+msgstr ""
+
+#. Text in function
+#: arkahost/author.php:29
+msgid "Author Archives: %s"
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/domains/ajax_result_taken.php:36
+msgid "Available"
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/woocommerce/single-product-reviews.php:56
+msgid "Average"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/king.forgot.php:23
+msgid "Back to login"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/shortcode/vps/vps-slides.php:71
+msgid "Bandwidth"
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/woocommerce/single-product-reviews.php:56
+msgid "Be the first to review"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/king.actions.php:651
+msgid "Best Seller"
+msgstr ""
+
+#. Text in echo
+#: arkahost/options/fields/blog/field_blog.php:89
+msgid "Blog Layout"
+msgstr ""
+
+#. Text in echo
+#: arkahost/options/fields/blog/field_blog.php:141
+msgid "Blog pages show at most"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:176
+msgid "Breadcrumb Title Tag"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/woocommerce/filter-product/widgets/king-filter-reset-widget.php:89
+msgid "Button Label"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/footer/footer-one-page.php:20
+msgid "CALL US"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/header/header-style-3.php:29
+msgid "CAll Us:"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/shortcode/vps/vps-slides.php:59
+msgid "CPU"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/footer/default.php:18
+msgid "Call Us 24/7:"
+msgstr ""
+
+#. Text in function
+#: arkahost/comments.php:69
+msgid "Cancel Reply"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/woocommerce/woo-functions.php:449
+msgid "Cart"
+msgstr ""
+
+#. Text in echo
+#: arkahost/single-our-works.php:122
+msgid "Categories"
+msgstr ""
+
+#. Text in echo
+#: arkahost/options/fields/blog/field_blog.php:110
+msgid "Categories for blog"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/woocommerce/woo-functions.php:429
+#: arkahost/core/woocommerce/woo-functions.php:467
+#: arkahost/templates/woocommerce/cart/mini-cart.php:72
+msgid "Checkout"
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/woocommerce/single-product/add-to-cart/variable.php:27
+msgid "Choose an option"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/register.php:101
+msgid "City"
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/woocommerce/single-product/add-to-cart/variable.php:60
+msgid "Clear selection"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/king.class.php:781
+msgid "Click to leave a comment"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/header/default.php:72
+#: arkahost/templates/header/default.php:86
+#: arkahost/templates/header/header-style-3.php:54
+#: arkahost/templates/header/header-style-4.php:47
+#: arkahost/templates/header/header-style-4.php:61
+#: arkahost/templates/header/header-style-5.php:72
+#: arkahost/templates/header/header-style-5.php:86
+msgid "Client Area"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/woocommerce/compare-product/templates.php:66
+msgid "Close window [X]"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/widgets/xcode.php:131
+msgid "Code"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/woocommerce/filter-product/widgets/king-filter-widget.php:776
+msgid "Color"
+msgstr ""
+
+#. Text in echo
+#: arkahost/comments.php:54
+msgid "Comment navigation"
+msgstr ""
+
+#. Text in echo
+#: arkahost/comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/register.php:42
+msgid "Confirm Password"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/register.php:106
+msgid "Country"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/register.php:128
+msgid "Create Account"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/king.actions.php:641
+msgid "Currency"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/widgets/xcode.php:124
+msgid "Custom Class:"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/woocommerce/filter-product/widgets/king-filter-widget.php:808
+msgid "DEVN Woo Filter Widget"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/woocommerce/filter-product/widgets/king-filter-reset-widget.php:1
+msgid "DEVN Woo Reset Filter Widget"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/woocommerce/woo-functions.php:434
+#: arkahost/single-our-works.php:112
+msgid "Date"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/register.php:62
+msgid "Day"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/woocommerce/woo-functions.php:434
+msgid "Default Order"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:176
+msgid "Description"
+msgstr ""
+
+#. Text in function
+#: arkahost/options/options.php:1
+msgid "Dev Mode Info"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.user.php:138
+msgid "Disabled user register."
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/shortcode/vps/vps-slides.php:65
+msgid "Disk Space"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/sample.php:174
+msgid "Dismiss"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/woocommerce/filter-product/widgets/king-filter-widget.php:783
+msgid "Display (default All):"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:176
+msgid "Display Breadcrumb"
+msgstr ""
+
+#. Text in echo
+#: arkahost/options/fields/export_data/field_export_data.php:34
+msgid "Download theme options + widgets"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/sample.php:31
+msgid "Downloading the demo package, it may take a few minutes..."
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/woocommerce/filter-product/widgets/king-filter-widget.php:778
+msgid "Dropdown"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:700
+msgid "Dynamic Sidebar - Manage via theme-panel"
+msgstr ""
+
+#. Text in function
+#: arkahost/content.php:83
+#: arkahost/core/king.functions.php:107
+#: arkahost/core/king.functions.php:136
+#: arkahost/image.php:41
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: arkahost/comments.php:69
+#: arkahost/templates/register.php:33
+#: arkahost/templates/woocommerce/single-product-reviews.php:56
+msgid "Email"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.user.php:138
+msgid "Empty user login"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.user.php:138
+msgid "Enter a correct email."
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.user.php:138
+msgid "Enter a validate email."
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/king.forgot.php:32
+msgid "Enter your Email"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/shortcodes/register.php:1
+#: arkahost/templates/shortcode/adv_domain_checker/layout-1.php:1
+msgid "Enter your domain name here..."
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:901
+msgid "Error: "
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:901
+msgid "Error: Can not signup into list. Please contact administrator to solve issues."
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:901
+msgid "Error: Please enter your email"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:901
+msgid "Error: This email already is subcribed"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:901
+msgid "Error: Your email is invalid"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/king.actions.php:550
+msgid "Facebook"
+msgstr ""
+
+#. Text in echo
+#: arkahost/content.php:88
+msgid "Featured"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/register.php:54
+msgid "Female"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/woocommerce/filter-product/widgets/king-filter-widget.php:808
+msgid "Filter products ajax widget!"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/woocommerce/filter-product/widgets/king-filter-widget.php:237
+msgid "Filters List:"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/shortcodes/register.php:1
+msgid "Find your Perfect Domain Name"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/shortcodes/register.php:1
+msgid "Find your Perfect Domain Name:"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/shortcodes/register.php:1933
+msgid "Flex child slider"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/widgets/flickr.php:1
+msgid "Flickr"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:700
+msgid "Footer Column 1"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:700
+msgid "Footer Column 2"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:700
+msgid "Footer Column 3"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:700
+msgid "Footer Column 4"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.functions.php:1
+msgid "Footer Menu"
+msgstr ""
+
+#. Text in echo
+#: arkahost/options/fields/blog/field_blog.php:151
+#: arkahost/options/fields/blog/field_blog.php:152
+msgid "For each article in a feed, show"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/login.php:41
+msgid "Forgot Password?"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/king.forgot.php:21
+msgid "Forgot your password"
+msgstr ""
+
+#. Text in function
+#: arkahost/options/fields/color_gradient/field_color_gradient.php:1
+msgid "From:"
+msgstr ""
+
+#. Text in echo
+#: arkahost/options/fields/blog/field_blog.php:63
+#: arkahost/options/fields/blog/field_blog.php:66
+msgid "Front page displays"
+msgstr ""
+
+#. Text in function
+#: arkahost/options/fields/blog/field_blog.php:78
+msgid "Front page: %s"
+msgstr ""
+
+#. Text in echo
+#: arkahost/options/fields/blog/field_blog.php:153
+msgid "Full text"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/register.php:50
+msgid "Gender"
+msgstr ""
+
+#. Text in function
+#: arkahost/options.php:1
+msgid "General Settings"
+msgstr ""
+
+#. Text in echo
+#: arkahost/404.php:27
+msgid "Go to Back"
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/woocommerce/single-product-reviews.php:56
+msgid "Good"
+msgstr ""
+
+#. Text in function
+#: arkahost/options/fields/google_webfonts/field_google_webfonts.php:1
+msgid "Google Web Fonts directory"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/king.actions.php:566
+msgid "Google+"
+msgstr ""
+
+#. Text in echo
+#: arkahost/options/fields/license/field_license.php:42
+msgid "How to find the purchase code?"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/register.php:123
+msgid "I agree the User Agreement and<a href=\"#\">Terms &amp; Condition.</a>"
+msgstr ""
+
+#. Text in echo
+#: arkahost/options/fields/import_data/field_import_data.php:63
+msgid "If you are looking for importing Sample Demos, Please go to section: "
+msgstr ""
+
+#. Text in echo
+#: arkahost/image.php:18
+msgid "Image navigation"
+msgstr ""
+
+#. Text in echo
+#: arkahost/options/fields/import_data/field_import_data.php:50
+msgid "Import Now"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/sample.php:95
+msgid "Import Successful"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/sample.php:79
+msgid "Import has completed"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/woocommerce/wishlist/templates/wishlist.php:134
+msgid "In Stock"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/sample.php:134
+msgid "Install Plugins Only"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/sample.php:153
+msgid "It may take up to 10 minutes"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/woocommerce/woo-functions.php:451
+msgid "Item(s)"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/woocommerce/filter-product/widgets/king-filter-widget.php:777
+msgid "Label"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:700
+msgid "Large Small"
+msgstr ""
+
+#. Text in function
+#: arkahost/comments.php:69
+msgid "Leave a Reply"
+msgstr ""
+
+#. Text in function
+#: arkahost/comments.php:69
+#: arkahost/templates/woocommerce/single-product-reviews.php:56
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/sample.php:118
+msgid "Let our custom demo content importer do the heavy lifting. Painlessly import settings, layouts, menus, colors, fonts, content, slider and plugins. Then get customising"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/king.actions.php:690
+msgid "Link submit"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/king.actions.php:574
+msgid "LinkedIn"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/woocommerce/filter-product/widgets/king-filter-widget.php:775
+msgid "List"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/header/header-style-3.php:32
+msgid "Live Chat"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/header/default.php:137
+#: arkahost/templates/header/header-style-4.php:107
+#: arkahost/templates/header/header-style-5.php:137
+msgid "LiveChat"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.ajax.php:208
+msgid "Load more"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/register.php:24
+msgid "Log In"
+msgstr ""
+
+#. Text in function
+#: arkahost/comments.php:69
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/header/default.php:99
+#: arkahost/templates/header/header-style-3.php:66
+#: arkahost/templates/header/header-style-4.php:74
+#: arkahost/templates/header/header-style-5.php:99
+#: arkahost/templates/king.forgot.php:25
+msgid "Login"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/login.php:48
+msgid "Login Now!"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.user.php:138
+msgid "Login successful, redirecting..."
+msgstr ""
+
+#. Text in function
+#: arkahost/options.php:1
+msgid "Logo Max Height"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/footer/footer-one-page.php:26
+msgid "Mail Us"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:700
+msgid "Main Sidebar"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/register.php:52
+msgid "Male"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/shortcode/team/layout-6-hiring.php:73
+msgid "Member"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/header/default.php:166
+#: arkahost/templates/header/header-style-2.php:27
+#: arkahost/templates/header/header-style-3.php:83
+#: arkahost/templates/header/header-style-4.php:137
+#: arkahost/templates/header/header-style-5.php:169
+msgid "Menu"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/register.php:73
+msgid "Month"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/shortcode/pricing/layout-2.php:71
+msgid "Most Popular"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/header/default.php:60
+#: arkahost/templates/header/header-style-3.php:44
+#: arkahost/templates/header/header-style-4.php:35
+#: arkahost/templates/header/header-style-5.php:60
+msgid "My Profile"
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/woocommerce/single-product/meta.php:27
+msgid "N/A"
+msgstr ""
+
+#. Text in function
+#: arkahost/comments.php:69
+#: arkahost/core/woocommerce/woo-functions.php:434
+#: arkahost/single-our-works.php:105
+#: arkahost/templates/register.php:46
+#: arkahost/templates/woocommerce/single-product-reviews.php:56
+msgid "Name"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/footer/default.php:17
+msgid "Need Help?"
+msgstr ""
+
+#. Text in function
+#: arkahost/comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.class.php:656
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Text in function
+#: arkahost/image.php:20
+msgid "Next &rarr;"
+msgstr ""
+
+#. Text in function
+#: arkahost/single.php:90
+msgid "Next Article<span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.ajax.php:208
+msgid "No More Article"
+msgstr ""
+
+#. Text in echo
+#: arkahost/index.php:35
+#: arkahost/templates/page-left.php:52
+#: arkahost/templates/page-right.php:46
+msgid "No posts to display"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/woocommerce/compare-product/templates.php:91
+msgid "No products added in the compare table."
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/woocommerce/cart/mini-cart.php:58
+msgid "No products in the cart."
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/woocommerce/wishlist/templates/wishlist.php:156
+msgid "No products were added to the wishlist"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/login.php:21
+msgid "Not member yet?"
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/woocommerce/single-product-reviews.php:56
+msgid "Not that bad"
+msgstr ""
+
+#. Text in echo
+#: arkahost/archive.php:36
+#: arkahost/author.php:68
+#: arkahost/category.php:50
+#: arkahost/index.php:46
+#: arkahost/search.php:37
+#: arkahost/templates/page-left.php:63
+#: arkahost/templates/page-right.php:57
+msgid "Nothing Found"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/sample.php:120
+msgid "Notice: Before import, Make sure your website data is empty (posts, pages, menus...etc...)"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/sample.php:173
+msgid "Notice: If you do not install plugins and sample data, your site will not work fully functional. Click Ok if you want to dismiss."
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/woocommerce/filter-product/widgets/king-filter-widget.php:770
+msgid "OR"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.functions.php:1
+msgid "One Page Menu"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/woocommerce/filter-product/widgets/king-filter-widget.php:787
+msgid "Only Parent"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/woocommerce/single-product-reviews.php:95
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#. Text in echo
+#: arkahost/options/fields/import_data/field_import_data.php:42
+msgid "Only theme options"
+msgstr ""
+
+#. Text in echo
+#: arkahost/options/fields/import_data/field_import_data.php:45
+msgid "Only widgets data"
+msgstr ""
+
+#. Text in echo
+#: arkahost/404.php:18
+msgid "Oops... Page Not Found!"
+msgstr ""
+
+#. Text in function
+#: arkahost/options/options.php:1
+msgid "Options"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/shortcodes/register.php:1933
+msgid "Order Now"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/blog-timeline.php:18
+msgid "Our History"
+msgstr ""
+
+#. Text in function
+#: arkahost/single-our-works.php:187
+msgid "Our Works"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/coming-soon.php:74
+msgid "Our website is under construction. We'll be here soon with our new awesome site. Get best experience with this one."
+msgstr ""
+
+#. Text in function
+#: arkahost/core/woocommerce/wishlist/templates/wishlist.php:134
+msgid "Out of Stock"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:176
+msgid "Overlap: The header will cover up anything beneath it."
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.class.php:702
+msgid "Page %1$s of %2$s"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:176
+msgid "Page Title"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:176
+msgid "Page Title will display on Breadcrumn instead default title."
+msgstr ""
+
+#. Text in function
+#: arkahost/content.php:92
+#: arkahost/image.php:90
+msgid "Pages:"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/login.php:31
+#: arkahost/templates/register.php:37
+msgid "Password"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.user.php:138
+msgid "Password does not match."
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.user.php:138
+msgid "Password too short."
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/woocommerce/single-product-reviews.php:56
+msgid "Perfect"
+msgstr ""
+
+#. Text in function
+#: arkahost/content.php:78
+#: arkahost/core/king.class.php:1150
+#: arkahost/core/king.class.php:1124
+#: arkahost/core/king.class.php:1185
+#: arkahost/post-related.php:56
+#: arkahost/post-related.php:61
+msgid "Permalink to %s"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/king.functions.php:107
+msgid "Pingback:"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.user.php:138
+msgid "Please check your email and reset your password."
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/sample.php:150
+msgid "Please do not navigate away while importing"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/sample.php:26
+msgid "Please do not navigate away while importing. Import speed depends on internet connection."
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/footer/default.php:34
+msgid "Please enter your email..."
+msgstr ""
+
+#. Text in echo
+#: arkahost/options/fields/license/field_license.php:47
+msgid "Please wait a moment..."
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/sample.php:140
+msgid "Plugins will be installed automatically during Import Sample Data.<br /> You also able to find the installation files in the directory"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/widgets/tabbed.php:26
+msgid "Popular"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/king.actions.php:542
+msgid "Position"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/king.class.php:650
+msgid "Post navigation"
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/shortcode/post/slider-single-item.php:59
+msgid "Posts not found"
+msgstr ""
+
+#. Text in function
+#: arkahost/options/fields/blog/field_blog.php:79
+msgid "Posts page: %s"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/king.actions.php:622
+#: arkahost/core/woocommerce/woo-functions.php:434
+msgid "Price"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/woocommerce/single-product/add-to-cart/variable.php:75
+msgid "Price: "
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.functions.php:1
+msgid "Primary Menu"
+msgstr ""
+
+#. Text in function
+#: arkahost/options/fields/colorStyle/field_colorStyle.php:85
+msgid "Primary css file has been located at: /wp_content/themes/%s/assets/css/colors/color-primary.css"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/footer/default.php:167
+#: arkahost/templates/footer/footer-layout-2.php:74
+#: arkahost/templates/footer/footer-one-page.php:66
+msgid "Privacy Policy"
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/woocommerce/single-product/tabs/description.php:1
+msgid "Product Description"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/woocommerce/wishlist/templates/wishlist.php:84
+msgid "Product Name"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/woocommerce/woo-functions.php:434
+msgid "Products"
+msgstr ""
+
+#. Text in echo
+#: arkahost/single-our-works.php:101
+msgid "Project Details"
+msgstr ""
+
+#. Text in echo
+#: arkahost/options/fields/license/field_license.php:31
+msgid "Purchase Code"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/woocommerce/filter-product/widgets/king-filter-widget.php:767
+msgid "Query Type:"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/sample.php:170
+msgid "Question?"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/shortcode/vps/vps-slides.php:77
+msgid "RAM"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/register.php:21
+msgid "REGISTRATION"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/king.actions.php:490
+msgid "Rate"
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/woocommerce/single-product-reviews.php:56
+msgid "Rate&hellip;"
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/woocommerce/single-product/review.php:43
+msgid "Rated %d out of 5"
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/woocommerce/single-product/rating.php:23
+msgid "Rated %s out of 5"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/woocommerce/woo-functions.php:434
+msgid "Rating"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/shortcodes/elements.php:42
+#: arkahost/templates/our-works-columns.php:8
+#: arkahost/templates/shortcode/work/layout-1.php:28
+msgid "Read More"
+msgstr ""
+
+#. Text in function
+#: arkahost/content.php:92
+msgid "Read More &#187;"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.ajax.php:81
+#: arkahost/templates/shortcode/team/layout-3.php:50
+#: arkahost/templates/shortcode/team/layout-6-hiring.php:62
+msgid "Read more"
+msgstr ""
+
+#. Text in function
+#: arkahost/index.php:39
+#: arkahost/templates/page-left.php:56
+#: arkahost/templates/page-right.php:50
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/widgets/tabbed.php:27
+msgid "Recent"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/shortcode/pricing/layout-1.php:87
+#: arkahost/templates/shortcode/pricing/layout-2.php:87
+#: arkahost/templates/shortcode/pricing/layout-3.php:80
+msgid "Regularly"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/king.actions.php:631
+msgid "Regularly Price"
+msgstr ""
+
+#. Text in echo
+#: arkahost/post-related.php:42
+msgid "Related Articles"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/woocommerce/single-product/related.php:38
+msgid "Related Products"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/login.php:38
+msgid "Remember Me"
+msgstr ""
+
+#. Text in function
+#: arkahost/options/fields/multi_text/field_multi_text.php:1
+#: arkahost/templates/woocommerce/compare-product/templates.php:99
+msgid "Remove"
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/woocommerce/cart/mini-cart.php:46
+msgid "Remove this item"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/woocommerce/wishlist/templates/wishlist.php:108
+msgid "Remove this product"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.functions.php:148
+msgid "Reply <span>&darr;</span>"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/woocommerce/filter-product/widgets/king-filter-reset-widget.php:1
+msgid "Reset All Filters"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/woocommerce/filter-product/widgets/king-filter-reset-widget.php:1
+msgid "Reset all filters setted by DEVN Filter Widget"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/king.forgot.php:37
+msgid "Reset password!"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/woocommerce/single-product-reviews.php:22
+msgid "Reviews"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/woocommerce/single-product/meta.php:27
+msgid "SKU:"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/sample.php:115
+msgid "Sample Data"
+msgstr ""
+
+#. Text in function
+#: arkahost/options/options.php:1
+msgid "Save Changes"
+msgstr ""
+
+#. Text in echo
+#: arkahost/searchform.php:7
+#: arkahost/searchform.php:8
+#: arkahost/searchform.php:9
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/shortcodes/register.php:1
+msgid "Search Domain"
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/domains/ajax_result_taken.php:36
+msgid "Select"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:176
+msgid "Select Footer"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:176
+msgid "Select Header"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:176
+msgid "Select Sidebar"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.user.php:1
+msgid "Select a country&hellip;"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:176
+msgid "Select a dynamic sidebar what you created in theme-panel to display under page layout."
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/domains/ajax_result_available.php:38
+msgid "Select domain"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:176
+msgid "Select footer to display for only this page. This path has located /templates/footer/{-file-}"
+msgstr ""
+
+#. Text in function
+#: arkahost/options/fields/pages_select/field_pages_select.php:1
+msgid "Select page"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:176
+msgid "Select template from Page Attributes at right side"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.user.php:1
+msgid "Sending user info, please wait..."
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:176
+msgid "Set for show or dont show breadcrumb for this page."
+msgstr ""
+
+#. Text in echo
+#: arkahost/single.php:40
+msgid "Share this Article"
+msgstr ""
+
+#. Text in echo
+#: arkahost/single-our-team.php:34
+msgid "Share this Post"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/woocommerce/woo-functions.php:434
+msgid "Show"
+msgstr ""
+
+#. Text in echo
+#: arkahost/single-our-works.php:65
+msgid "Show More"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/widgets/xcode.php:117
+msgid "Show Title:"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/woocommerce/woo-functions.php:434
+msgid "Show details"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/footer/default.php:41
+msgid "Sign Up"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/login.php:22
+msgid "Sign Up."
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/footer/default.php:26
+msgid "Sign up to Newsletter to get special offers"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:700
+msgid "Single Product Sidebar"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/footer/default.php:173
+#: arkahost/templates/footer/footer-layout-2.php:80
+msgid "Site Map"
+msgstr ""
+
+#. Text in echo
+#: arkahost/404.php:20
+msgid "Sorry the Page Could not be Found here."
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/shortcode/adv_domain_checker/result.php:26
+msgid "Sorry! Domain is taken."
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/domains/ajax_result_taken.php:25
+msgid "Sorry, <span>%1$s</span> is taken."
+msgstr ""
+
+#. Text in echo
+#: arkahost/search.php:42
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#. Text in function
+#: arkahost/core/woocommerce/woo-functions.php:434
+msgid "Sort by"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:176
+msgid "Staff Profiles"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/sample.php:29
+msgid "Status"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/woocommerce/wishlist/templates/wishlist.php:86
+msgid "Stock Status"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/sample.php:84
+msgid "Stop Now"
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/woocommerce/single-product-reviews.php:56
+msgid "Submit"
+msgstr ""
+
+#. Text in function
+#: arkahost/comments.php:69
+msgid "Submit Comment"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/header/header-style-3.php:36
+msgid "Submit Ticket"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/woocommerce/cart/mini-cart.php:66
+msgid "Subtotal"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:901
+msgid "Success! Check your email to confirm sign up."
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:901
+msgid "Success! Your email is subcribed."
+msgstr ""
+
+#. Text in echo
+#: arkahost/options/fields/blog/field_blog.php:154
+msgid "Summary"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/header/default.php:144
+#: arkahost/templates/header/header-style-4.php:114
+#: arkahost/templates/header/header-style-5.php:144
+msgid "Support"
+msgstr ""
+
+#. Text in echo
+#: arkahost/options/fields/blog/field_blog.php:147
+msgid "Syndication feeds show the most recent"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/widgets/tabbed.php:28
+msgid "Tags"
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/domains/ajax_result_taken.php:36
+msgid "Taken"
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/shortcode/team/layout-1.php:42
+#: arkahost/templates/shortcode/team/layout-2.php:91
+#: arkahost/templates/shortcode/team/layout-3.php:55
+#: arkahost/templates/shortcode/team/layout-4.php:40
+#: arkahost/templates/shortcode/team/layout-5-flip.php:78
+#: arkahost/templates/shortcode/team/layout-6-hiring.php:89
+msgid "Teams not found"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/footer/default.php:161
+#: arkahost/templates/footer/footer-layout-2.php:68
+msgid "Terms of Service"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/footer/footer-one-page.php:62
+msgid "Terms of Use"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:176
+msgid "Testimonial Options"
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/shortcode/testimonial/layout-1.php:41
+#: arkahost/templates/shortcode/testimonial/layout-2.php:53
+#: arkahost/templates/shortcode/testimonial/layout-3.php:60
+msgid "Testimonials not found"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/king.actions.php:682
+msgid "Text button submit"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/sample.php:112
+msgid "Thank you for using the"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:176
+msgid "The description will show in content of meta tag for SEO + Sharing purpose"
+msgstr ""
+
+#. Text in function
+#: arkahost/options/fields/license/field_license.php:57
+msgid "The domain %s has yet to be verified."
+msgstr ""
+
+#. Text in function
+#: arkahost/options/fields/google_webfonts/field_google_webfonts.php:1
+msgid "The fonts provided below are free to use custom fonts from the"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:176
+msgid "The html tag for title content. Default is H1"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/sample.php:23
+msgid "The importer is working"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/sample.php:88
+msgid "Theme Panel"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/blog-timeline.php:21
+msgid "Therefore discovered the undoubtable source comes from the cites of the making words with sections always."
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.user.php:138
+msgid "This email address is already registered."
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.user.php:138
+msgid "This email not exist in my system."
+msgstr ""
+
+#. Text in function
+#: arkahost/options/validation/color/validation_color.php:1
+msgid "This field must be a valid color value."
+msgstr ""
+
+#. Text in function
+#: arkahost/options/validation/date/validation_date.php:1
+msgid "This field must be a valid date."
+msgstr ""
+
+#. Text in echo
+#: arkahost/comments.php:14
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/woocommerce/single-product/add-to-cart/variable.php:94
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.user.php:138
+msgid "This username is already registered."
+msgstr ""
+
+#. Text in function
+#: arkahost/options.php:1
+msgid "This will be display as logo at header of every page"
+msgstr ""
+
+#. Text in function
+#: arkahost/options.php:1
+msgid "This will be display replace for first logo when scrolling down. For header 5 only."
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/woocommerce/filter-product/widgets/king-filter-reset-widget.php:83
+#: arkahost/core/woocommerce/filter-product/widgets/king-filter-widget.php:756
+msgid "Title"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/widgets/xcode.php:111
+msgid "Title:"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/header/header-onepage.php:19
+msgid "Toggle navigation"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.functions.php:1
+msgid "Top Navigation"
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/shortcode/adv_domain_checker/result.php:16
+msgid "Transfer"
+msgstr ""
+
+#. Text in echo
+#: arkahost/404.php:22
+msgid "Try using the button below to go to main page of the site"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/king.actions.php:558
+msgid "Twitter"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/woocommerce/filter-product/widgets/king-filter-widget.php:773
+msgid "Type:"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/woocommerce/wishlist/templates/wishlist.php:85
+msgid "Unit Price"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:176
+msgid "Upload Breadcrumb Background Image"
+msgstr ""
+
+#. Text in function
+#: arkahost/options.php:1
+msgid "Upload Compact Logo"
+msgstr ""
+
+#. Text in function
+#: arkahost/options.php:1
+msgid "Upload Logo"
+msgstr ""
+
+#. Text in function
+#: arkahost/options.php:1
+msgid "Upload new or from media library to use as your logo. We recommend that you use images without borders and throughout."
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:176
+msgid "Upload your Breadcrumb background image for this page."
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/register.php:30
+msgid "Username"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/login.php:28
+msgid "Username / Email"
+msgstr ""
+
+#. Text in echo
+#: arkahost/options/fields/license/field_license.php:53
+msgid "Verification Status"
+msgstr ""
+
+#. Text in echo
+#: arkahost/options/fields/license/field_license.php:38
+msgid "Verify This Key"
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/woocommerce/single-product-reviews.php:56
+msgid "Very Poor"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/woocommerce/woo-functions.php:428
+#: arkahost/core/woocommerce/woo-functions.php:466
+#: arkahost/templates/woocommerce/cart/mini-cart.php:71
+msgid "View Cart"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.class.php:736
+msgid "View all posts by %s"
+msgstr ""
+
+#. Text in echo
+#: arkahost/single-our-works.php:158
+msgid "Visit Site"
+msgstr ""
+
+#. Text in echo
+#: arkahost/options/fields/import_data/field_import_data.php:54
+msgid "WARNING! This will overwrite all existing option values, please proceed with caution!"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/header/default.php:78
+#: arkahost/templates/header/header-style-4.php:53
+#: arkahost/templates/header/header-style-5.php:78
+msgid "WHMPRESS not found!"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/shortcode/team/layout-6-hiring.php:72
+#: arkahost/templates/shortcode/team/layout-6-hiring.php:76
+msgid "We are Hiring"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/sample.php:130
+msgid "We required using 4 plugins"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/sample.php:122
+msgid "We suggest you use the plugin"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/sample.php:81
+msgid "We will redirect you to homepage after"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/header/default.php:128
+#: arkahost/templates/header/header-style-4.php:100
+#: arkahost/templates/header/header-style-5.php:128
+msgid "WebMail"
+msgstr ""
+
+#. Text in function
+#: arkahost/comments.php:69
+#: arkahost/core/king.actions.php:481
+msgid "Website"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/sample.php:110
+msgid "Welcome to"
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/shortcode/adv_domain_checker/result.php:15
+msgid "Whois"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/king.actions.php:1116
+msgid "Width Of Menu"
+msgstr ""
+
+#. Text in function
+#: arkahost/options/fields/license/field_license.php:60
+msgid "Wooot! The domain %s has been verified."
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/shortcode/work/layout-1.php:99
+#: arkahost/templates/shortcode/work/layout-2.php:90
+msgid "Works not found"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.user.php:138
+msgid "Wrong username or password."
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/register.php:86
+msgid "Year"
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/domains/ajax_result_available.php:25
+msgid "Yes! %1$s is available. Buy it before someone else does."
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/shortcode/adv_domain_checker/result.php:24
+msgid "Yes! Domain is available."
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/login.php:1
+#: arkahost/templates/register.php:1
+msgid "You are logged in"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/sample.php:82
+msgid "You can"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.actions.php:898
+msgid "You have not yet enabled permalink, the 404 page and some functions will not work. To enable, please <a href=\"%s\">Click here</a> and choose \"Post name\""
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/domains/ajax_result_taken.php:35
+msgid "You may want to check:"
+msgstr ""
+
+#. Text in function
+#: arkahost/comments.php:69
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#. Text in function
+#: arkahost/options/validation/no_html/validation_no_html.php:1
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#. Text in function
+#: arkahost/options/validation/no_special_chars/validation_no_special_chars.php:1
+msgid "You must not enter any special characters in this field, all special characters have been removed."
+msgstr ""
+
+#. Text in function
+#: arkahost/options/validation/comma_numeric/validation_comma_numeric.php:1
+msgid "You must provide a comma seperated list of numerical values for this option."
+msgstr ""
+
+#. Text in function
+#: arkahost/options/validation/numeric/validation_numeric.php:1
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#. Text in function
+#: arkahost/options/validation/url/validation_url.php:1
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#. Text in function
+#: arkahost/options/validation/email/validation_email.php:1
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/woocommerce/single-product-reviews.php:56
+msgid "Your Rating"
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/woocommerce/single-product-reviews.php:56
+msgid "Your Review"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/woocommerce/single-product/review.php:26
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/king.functions.php:140
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in echo
+#: arkahost/options/fields/blog/field_blog.php:69
+msgid "Your latest posts"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/king.class.php:735
+msgid "by:"
+msgstr ""
+
+#. Text in echo
+#: arkahost/options/fields/blog/field_blog.php:148
+msgid "items"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.user.php:138
+msgid "login successful, redirecting..."
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.class.php:782
+msgid "no comments"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.class.php:782
+msgid "one comment"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/sample.php:86
+msgid "or go to"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/woocommerce/single-product/rating.php:25
+#: arkahost/templates/woocommerce/single-product/review.php:44
+msgid "out of 5"
+msgstr ""
+
+#. Text in echo
+#: arkahost/options/fields/blog/field_blog.php:143
+msgid "posts"
+msgstr ""
+
+#. Text in function
+#: arkahost/core/king.class.php:785
+#: arkahost/core/shortcodes/register.php:1
+#: arkahost/core/shortcodes/register.php:1933
+msgid "template not found"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/footer/default.php:143
+#: arkahost/templates/footer/footer-layout-2.php:56
+msgid "to add your copyrights text"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/sample.php:122
+msgid "to reset your website before import"
+msgstr ""
+
+#. Text in function
+#: arkahost/templates/woocommerce/single-product/review.php:31
+msgid "verified owner"
+msgstr ""
+
+#. Text in echo
+#: arkahost/core/sample.php:168
+msgid "version"
+msgstr ""
+
+#. Text in echo
+#: arkahost/templates/our-works-masonry.php:58
+#: arkahost/templates/shortcode/work/layout-2.php:63
+msgid "view details"
+msgstr ""

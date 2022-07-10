@@ -1,0 +1,71 @@
+/***********************************************************
+	King Theme Re-style
+	Common WHMpress Css
+***********************************************************/
+
+body .whmp_found_result{
+	padding: 10px!important;
+}
+
+body .whmpress_domain_search_bulk form{
+	width: 100%;
+}
+
+body .whmpress_domain_search_bulk .search-button, .whmpress_domain_search_bulk form .bulk-options{
+	text-align: left;
+}
+
+body .domain_search .serch_area h3.white{
+	text-align: center;
+}
+
+body .whmp_domain_search_ajax_results .whmp_found_result {
+    background: none;
+    color: #fff;
+    border-bottom: 1px solid #3a573d;
+	margin-bottom: 0;
+	border-left: none;
+}
+
+.whmp_domain_search_ajax_results .whmp_not_found_title{
+	background: #ffdddd;
+	color: #bd6767;
+}
+
+body .whmp_search_ajax_buttons{
+	margin-top: 30px;
+}
+
+body .load-more-div{
+	margin-top: 30px;
+}
+body .whmp_domain_search_ajax_results .load-more-div button{
+	padding: 12px 30px;
+    color: #fff;
+    border-radius: 6px;
+    border: 1px solid #5a775d;
+    display: inline-block;
+    background: #3a573d;
+    text-transform: uppercase;
+}
+
+body .whmpress_price_box .style1_wrapper{
+	display: block;
+}
+
+body .whmpress_price_box .style1_left, body .whmpress_price_box .style1_right{
+	width: 100%;	
+}
+
+body .whmpress_announcements_wrap .one_half{
+	text-align: left;
+}
+
+body .whmpress_announcements_wrap .one_half:nth-child(even){
+	margin-right: 0;
+}
+
+body .whmp_domain_search_ajax_results .whmp_found_title{
+	background: #dbedfd;
+	color: #3378b9;
+}

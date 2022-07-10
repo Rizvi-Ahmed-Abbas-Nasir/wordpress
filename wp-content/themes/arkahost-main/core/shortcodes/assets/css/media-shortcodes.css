@@ -1,0 +1,55 @@
+/*** Shortcodes Ultimate - media elements ***/
+
+/* Container for responsive media elements */
+
+.king-responsive-media-yes {
+	position: relative;
+	padding-bottom: 56.25%;
+	height: 0;
+	overflow: hidden;
+}
+.king-responsive-media-yes iframe,
+.king-responsive-media-yes object,
+.king-responsive-media-yes embed {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+/*		YouTube
+---------------------------------------------------------------*/
+
+.king-youtube { margin: 0 0 1.5em 0 }
+.king-youtube iframe { border: none !important }
+
+/*		Vimeo
+---------------------------------------------------------------*/
+
+.king-vimeo { margin: 0 0 1.5em 0 }
+.king-vimeo iframe { border: none !important }
+
+/*		Screenr
+---------------------------------------------------------------*/
+
+.king-screenr { margin: 0 0 1.5em 0 }
+.king-screenr iframe { border: none !important }
+
+/*		Dailymotion
+---------------------------------------------------------------*/
+
+.king-dailymotion { margin: 0 0 1.5em 0 }
+.king-dailymotion iframe { border: none !important }
+
+/*		Document
+---------------------------------------------------------------*/
+
+.king-document { margin: 0 0 1.5em 0 }
+.king-document iframe { border: none !important }
+
+/*		Gmap
+---------------------------------------------------------------*/
+
+.king-gmap { margin: 0 0 1.5em 0 }
+.king-gmap iframe { border: none !important }

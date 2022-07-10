@@ -1,0 +1,23 @@
+/* widget area */
+.king_filter_placeholder + .spinner {
+    background-position: center;
+    float: left;
+    margin: 10px 0;
+    width: 100%;
+}
+
+.king_filter_placeholder table {
+    width: 100%;
+}
+
+.king_filter_placeholder th {
+    text-align: left;
+}
+
+.king_filter_placeholder td {
+    vertical-align: top;
+}
+
+p.dev-filter-display-label, p.dev-filter-display-color {
+    display: none;
+}
